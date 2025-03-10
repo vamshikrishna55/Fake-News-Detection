@@ -46,6 +46,9 @@ This project aims to classify news articles as **Fake** or **Real** using **Natu
 ✔ **ROC Curve & AUC Score** – Analyzes model's discriminatory power  
 
 ---
+## 📂 Dataset Download
+Due to its large size, the dataset can be downloaded from [Google Drive](https://drive.google.com/file/d/1kUyHhhZEU998eWRo_yLoyKlNuhmTrDXB/view?usp=sharing).
+
 
 ## 📌 How to Run the Project  
 1️⃣ **Clone the repository**  
